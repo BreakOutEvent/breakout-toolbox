@@ -1,2 +1,6 @@
+![BreakOut-Logo](https://static.break-out.org/breakout-logo.png "BreakOut")
+
 # breakout-toolbox
-This repository contain all the nifty little thing which make our BreakOut-Dev-Live easier.
+This repository contains all the nifty little things which make our BreakOut-Dev-Live easier.
+
+
